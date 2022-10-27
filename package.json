@@ -1,6 +1,6 @@
 {
   "name": "@g3rrydanc3/sequelize-auto",
-  "version": "0.8.7",
+  "version": "0.8.11",
   "publishConfig": {
     "tag": "latest"
   },
