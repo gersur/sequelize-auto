@@ -1,5 +1,5 @@
 {
-  "name": "sequelize-auto",
+  "name": "@g3rrydanc3/sequelize-auto",
   "version": "0.8.7",
   "publishConfig": {
     "tag": "latest"
